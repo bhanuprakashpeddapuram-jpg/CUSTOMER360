@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce360-customer-intelligence-console",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "serve . --listen 3000 --no-clipboard --single",
+    "start": "serve . --listen 3000 --no-clipboard --single"
+  },
+  "devDependencies": {
+    "serve": "14.2.4"
+  }
+}
